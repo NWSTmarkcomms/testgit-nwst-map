@@ -1,0 +1,1141 @@
+[
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Innovation Center",
+    "fullAddress": "1728 Montreal Circle Tucker, GA 30084",
+    "street": "1728 Montreal Circle",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084",
+    "region": "0",
+    "branchNumber": "6820.0",
+    "services": [],
+    "position": {
+      "xPercent": 60.78,
+      "yPercent": 65.65
+    },
+    "isSupportCenter": true
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Team Support Center",
+    "fullAddress": "830 Kennesaw Avenue NW Marietta, GA30060",
+    "street": "830 Kennesaw Avenue NW",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "region": "0",
+    "branchNumber": "6801.0",
+    "services": [],
+    "position": {
+      "xPercent": 56.33,
+      "yPercent": 57.2
+    },
+    "isSupportCenter": true
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Anniston",
+    "fullAddress": "2210 Quintard Ave Anniston, AL 36201",
+    "street": "2210 Quintard Ave",
+    "city": "Anniston",
+    "state": "AL",
+    "zip": "36201",
+    "region": "1",
+    "branchNumber": "6837.0",
+    "services": [],
+    "position": {
+      "xPercent": 39.57,
+      "yPercent": 63.15
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Carrollton - NWST",
+    "fullAddress": "104 Rejen Drive Carrollton, GA 30117",
+    "street": "104 Rejen Drive",
+    "city": "Carrollton",
+    "state": "GA",
+    "zip": "30117",
+    "region": "1",
+    "branchNumber": "6803.0",
+    "services": [],
+    "position": {
+      "xPercent": 49.22,
+      "yPercent": 56.26
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Columbus",
+    "fullAddress": "1474 Concord Blvd Columbus, GA 31904",
+    "street": "1474 Concord Blvd",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31904",
+    "region": "1",
+    "branchNumber": "6815.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.92,
+      "yPercent": 64.14
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Cullman",
+    "fullAddress": "7830 AL-157 Cullman, AL 35057",
+    "street": "7830 AL-157",
+    "city": "Cullman",
+    "state": "AL",
+    "zip": "35057",
+    "region": "1",
+    "branchNumber": "6831.0",
+    "services": [],
+    "position": {
+      "xPercent": 45.73,
+      "yPercent": 60.31
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Homewood",
+    "fullAddress": "240 Oxmoor Cir #104 Birmingham, AL 35209",
+    "street": "240 Oxmoor Cir #104",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35209",
+    "region": "1",
+    "branchNumber": "6832.0",
+    "services": [],
+    "position": {
+      "xPercent": 50.42,
+      "yPercent": 58.09
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Jasper",
+    "fullAddress": "1201 North Airport Road Jasper, AL 35504",
+    "street": "1201 North Airport Road",
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "35504",
+    "region": "1",
+    "branchNumber": "6833.0",
+    "services": [],
+    "position": {
+      "xPercent": 39.52,
+      "yPercent": 56.1
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "LaGrange",
+    "fullAddress": "1005 Hogansville Road LaGrange, GA 30241",
+    "street": "1005 Hogansville Road",
+    "city": "LaGrange",
+    "state": "GA",
+    "zip": "30241",
+    "region": "1",
+    "branchNumber": "6814.0",
+    "services": [],
+    "position": {
+      "xPercent": 63.18,
+      "yPercent": 61.5
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Newnan",
+    "fullAddress": "37 Lakeside Way Newnan, GA 30265",
+    "street": "37 Lakeside Way",
+    "city": "Newnan",
+    "state": "GA",
+    "zip": "30265",
+    "region": "1",
+    "branchNumber": "6810.0",
+    "services": [],
+    "position": {
+      "xPercent": 52.67,
+      "yPercent": 67.9
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Opelika",
+    "fullAddress": "3600 Pepperell Pkwy Opelika, AL 36801",
+    "street": "3600 Pepperell Pkwy",
+    "city": "Opelika",
+    "state": "AL",
+    "zip": "36801",
+    "region": "1",
+    "branchNumber": "6838.0",
+    "services": [],
+    "position": {
+      "xPercent": 50.25,
+      "yPercent": 55.15
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Carolina Pest Management",
+    "serviceCenter": "Carolina Pest",
+    "fullAddress": "1410 Concord Ave. Monroe, NC 28110",
+    "street": "1410 Concord Ave",
+    "city": "Monroe",
+    "state": "NC",
+    "zip": "28110",
+    "region": "2",
+    "branchNumber": "6835.0",
+    "services": [],
+    "position": {
+      "xPercent": 70.37,
+      "yPercent": 59.24
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Hermitage",
+    "fullAddress": "3522 Central Pike Suite 211 Hermitage, TN 37076",
+    "street": "3522 Central Pike Suite 211",
+    "city": "Hermitage",
+    "state": "TN",
+    "zip": "37076",
+    "region": "2",
+    "branchNumber": "6829.0",
+    "services": [],
+    "position": {
+      "xPercent": 47.64,
+      "yPercent": 41.5
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Hixson",
+    "fullAddress": "1906 Hamill Road Suite 112 Hixson, TN 37343",
+    "street": "1906 Hamill Road Suite 112",
+    "city": "Hixson",
+    "state": "TN",
+    "zip": "37343",
+    "region": "2",
+    "branchNumber": "6818.0",
+    "services": [],
+    "position": {
+      "xPercent": 56.91,
+      "yPercent": 40.54
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Murfreesboro",
+    "fullAddress": "3185 Franklin Road Murfreesboro, TN 37128",
+    "street": "3185 Franklin Road",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37128",
+    "region": "2",
+    "branchNumber": "6817.0",
+    "services": [],
+    "position": {
+      "xPercent": 54.44,
+      "yPercent": 42.89
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Ooltewah",
+    "fullAddress": "8822 Production Lane Suite 104 Ooltewah, TN 37363",
+    "street": "8822 Production Lane Suite 104",
+    "city": "Ooltewah",
+    "state": "TN",
+    "zip": "37363",
+    "region": "2",
+    "branchNumber": "6830.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.7,
+      "yPercent": 51.03
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Ringgold",
+    "fullAddress": "456 Bandy Ln. Ringgold, GA 30736",
+    "street": "456 Bandy Ln",
+    "city": "Ringgold",
+    "state": "GA",
+    "zip": "30736",
+    "region": "2",
+    "branchNumber": "6853.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.3,
+      "yPercent": 58.46
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Sawyer Exterminating",
+    "serviceCenter": "Sawyer Exterminating",
+    "fullAddress": "401 Alamance Rd LOT A Burlington, NC 27215",
+    "street": "401 Alamance Rd LOT A",
+    "city": "Burlington",
+    "state": "NC",
+    "zip": "27215",
+    "region": "2",
+    "branchNumber": "6828.0",
+    "services": [],
+    "position": {
+      "xPercent": 72.56,
+      "yPercent": 61.7
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Alpharetta",
+    "fullAddress": "193 North Main Street Alpharetta GA 30009",
+    "street": "193 North Main Street",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30009",
+    "region": "3",
+    "branchNumber": "6807.0",
+    "services": [],
+    "position": {
+      "xPercent": 63.32,
+      "yPercent": 59.37
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Buford",
+    "fullAddress": "929 Buford Hwy NE Buford, GA 30518",
+    "street": "929 Buford Hwy NE",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30518",
+    "region": "3",
+    "branchNumber": "6804.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.71,
+      "yPercent": 56.64
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Canton",
+    "fullAddress": "2649 Marietta Hwy Canton, GA 30114",
+    "street": "2649 Marietta Hwy",
+    "city": "Canton",
+    "state": "GA",
+    "zip": "30114",
+    "region": "3",
+    "branchNumber": "6809.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.05,
+      "yPercent": 65.05
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Dawsonville",
+    "fullAddress": "30 Industrial Park Rd #103 Dawsonville, GA 30534",
+    "street": "30 Industrial Park Rd #103",
+    "city": "Dawsonville",
+    "state": "GA",
+    "zip": "30534",
+    "region": "3",
+    "branchNumber": null,
+    "services": [],
+    "position": {
+      "xPercent": 60.39,
+      "yPercent": 59.41
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Gainesville, GA",
+    "fullAddress": "1011 Airport St. Gainesville, GA 30501",
+    "street": "1011 Airport St",
+    "city": "Gainesville",
+    "state": "GA",
+    "zip": "30501",
+    "region": "3",
+    "branchNumber": "6827.0",
+    "services": [],
+    "position": {
+      "xPercent": 58.88,
+      "yPercent": 64.75
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Lanier",
+    "fullAddress": "6715 Little Mill Rd Cumming, GA 30041",
+    "street": "6715 Little Mill Rd",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041",
+    "region": "3",
+    "branchNumber": "6813.0",
+    "services": [],
+    "position": {
+      "xPercent": 62.65,
+      "yPercent": 66.88
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Laurens",
+    "fullAddress": "600 North Harper Street Laurens, SC 29360",
+    "street": "600 North Harper Street",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360",
+    "region": "3",
+    "branchNumber": "6824.0",
+    "services": [],
+    "position": {
+      "xPercent": 58.26,
+      "yPercent": 68.88
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Lithia Springs",
+    "fullAddress": "685 Thornton Way \n\nSuite C and D",
+    "street": "685 Thornton Way \n\nSuite C and D",
+    "city": "Lithia Springs",
+    "state": "GA",
+    "zip": "30122",
+    "region": "3",
+    "branchNumber": null,
+    "services": [],
+    "position": {
+      "xPercent": 50.55,
+      "yPercent": 63.23
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Peachtree Corners",
+    "fullAddress": "3158 Process Dr NW Norcross, GA 30071",
+    "street": "3158 Process Dr NW",
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30071",
+    "region": "3",
+    "branchNumber": "6821.0",
+    "services": [],
+    "position": {
+      "xPercent": 49.37,
+      "yPercent": 61.26
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Augusta - NWST",
+    "fullAddress": "4820 Technology Dr. Suite B. Martinez, GA 30907",
+    "street": "4820 Technology Dr. Suite B.",
+    "city": "Martinez",
+    "state": "GA",
+    "zip": "30907",
+    "region": "4",
+    "branchNumber": "6822.0",
+    "services": [],
+    "position": {
+      "xPercent": 58.04,
+      "yPercent": 68.97
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Lawrenceville",
+    "fullAddress": "2870 Sugarloaf Parkway Lawrenceville, GA 30045",
+    "street": "2870 Sugarloaf Parkway",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30045",
+    "region": "4",
+    "branchNumber": "6805.0",
+    "services": [],
+    "position": {
+      "xPercent": 53.79,
+      "yPercent": 68.84
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Macon - NWST",
+    "fullAddress": "4549 Knight Road Macon, GA 31220",
+    "street": "4549 Knight Road",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31220",
+    "region": "4",
+    "branchNumber": "6826.0",
+    "services": [],
+    "position": {
+      "xPercent": 63.97,
+      "yPercent": 56.87
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Monroe, GA - NWST",
+    "fullAddress": "2014 Highway 78 Monroe, GA 30655",
+    "street": "2014 Highway 78",
+    "city": "Monroe",
+    "state": "GA",
+    "zip": "30655",
+    "region": "4",
+    "branchNumber": "6811.0",
+    "services": [],
+    "position": {
+      "xPercent": 54.12,
+      "yPercent": 71.04
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Savannah",
+    "fullAddress": "124 US-80 Pooler, GA 31322",
+    "street": "124 US-80",
+    "city": "Pooler",
+    "state": "GA",
+    "zip": "31322",
+    "region": "4",
+    "branchNumber": "6812.0",
+    "services": [],
+    "position": {
+      "xPercent": 52.41,
+      "yPercent": 57.34
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Stockbridge",
+    "fullAddress": "105 Andrew Dr. Suite 500 Stockbridge, GA 30281",
+    "street": "105 Andrew Dr. Suite 500",
+    "city": "Stockbridge",
+    "state": "GA",
+    "zip": "30281",
+    "region": "4",
+    "branchNumber": "6806.0",
+    "services": [],
+    "position": {
+      "xPercent": 58.31,
+      "yPercent": 68.46
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Acworth",
+    "fullAddress": "3650 New McEver Rd NW Acworth, GA 30101",
+    "street": "3650 New McEver Rd NW",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101",
+    "region": "5",
+    "branchNumber": "6819.0",
+    "services": [],
+    "position": {
+      "xPercent": 63.31,
+      "yPercent": 59.15
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Dallas",
+    "fullAddress": "1003 Merchants Drive Dallas, GA 30132",
+    "street": "1003 Merchants Drive",
+    "city": "Dallas",
+    "state": "GA",
+    "zip": "30132",
+    "region": "5",
+    "branchNumber": "6808.0",
+    "services": [],
+    "position": {
+      "xPercent": 51.36,
+      "yPercent": 57.68
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "East Cobb",
+    "fullAddress": "670 Powers Ferry Road Marietta, GA 30067",
+    "street": "670 Powers Ferry Road",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "region": "5",
+    "branchNumber": "6816.0",
+    "services": [],
+    "position": {
+      "xPercent": 63.08,
+      "yPercent": 60.91
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Marietta",
+    "fullAddress": "1004 Kenmill Drive Dr NW Marietta, GA 30060",
+    "street": "1004 Kenmill Drive Dr NW",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060",
+    "region": "5",
+    "branchNumber": "6825.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.66,
+      "yPercent": 56.86
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Smyrna",
+    "fullAddress": "1740 Corn Road Smyrna, GA 30080",
+    "street": "1740 Corn Road",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080",
+    "region": "5",
+    "branchNumber": "6802.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.75,
+      "yPercent": 60.48
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Tucker",
+    "fullAddress": "1724 Montreal Circle Tucker, GA 30084",
+    "street": "1724 Montreal Circle",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084",
+    "region": "5",
+    "branchNumber": "6820.0",
+    "services": [],
+    "position": {
+      "xPercent": 54.88,
+      "yPercent": 60.77
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Augusta - Bug House Pest Control",
+    "fullAddress": "655 NW Frontage Rd Augusta, GA 30907",
+    "street": "655 NW Frontage Rd",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30907",
+    "region": "7",
+    "branchNumber": "9609.0",
+    "services": [],
+    "position": {
+      "xPercent": 56.23,
+      "yPercent": 59.0
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Carrollton - Bug House Pest Control",
+    "fullAddress": "215 Bankhead Hwy Carrollton, GA 30117",
+    "street": "215 Bankhead Hwy",
+    "city": "Carrollton",
+    "state": "GA",
+    "zip": "30117",
+    "region": "7",
+    "branchNumber": "9605.0",
+    "services": [],
+    "position": {
+      "xPercent": 53.9,
+      "yPercent": 64.77
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Dublin",
+    "fullAddress": "1022 Hillcrest Pkwy #108 Dublin, GA 31021",
+    "street": "1022 Hillcrest Pkwy #108",
+    "city": "Dublin",
+    "state": "GA",
+    "zip": "31021",
+    "region": "7",
+    "branchNumber": "9613.0",
+    "services": [],
+    "position": {
+      "xPercent": 51.37,
+      "yPercent": 67.36
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Eastman",
+    "fullAddress": "219 College Street Eastman, GA 31023",
+    "street": "219 College Street",
+    "city": "Eastman",
+    "state": "GA",
+    "zip": "31023",
+    "region": "7",
+    "branchNumber": "9614.0",
+    "services": [],
+    "position": {
+      "xPercent": 56.59,
+      "yPercent": 64.1
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Greensboro",
+    "fullAddress": "1210 Commerce Dr STE 101 Greensboro, GA 30642",
+    "street": "1210 Commerce Dr, #101",
+    "city": "Greensboro",
+    "state": "GA",
+    "zip": "30642",
+    "region": "7",
+    "branchNumber": "9608.0",
+    "services": [],
+    "position": {
+      "xPercent": 48.45,
+      "yPercent": 63.28
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Macon - Bug House Pest Control",
+    "fullAddress": "3663 Vineville Ave Macon, GA 31204",
+    "street": "3663 Vineville Ave",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31204",
+    "region": "7",
+    "branchNumber": "9603.0",
+    "services": [],
+    "position": {
+      "xPercent": 56.44,
+      "yPercent": 58.07
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Madison",
+    "fullAddress": "1165 Eatonton Rd Madison, GA 30650",
+    "street": "1165 Eatonton Rd",
+    "city": "Madison",
+    "state": "GA",
+    "zip": "30650",
+    "region": "7",
+    "branchNumber": "9610.0",
+    "services": [],
+    "position": {
+      "xPercent": 62.04,
+      "yPercent": 58.61
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Milledgeville",
+    "fullAddress": "1511 North Columbia St. Milledgeville, GA 31061",
+    "street": "1511 North Columbia St.",
+    "city": "Milledgeville",
+    "state": "GA",
+    "zip": "31061",
+    "region": "7",
+    "branchNumber": "9601.0",
+    "services": [],
+    "position": {
+      "xPercent": 57.76,
+      "yPercent": 62.28
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "St. Simons - Bug House Pest Control",
+    "fullAddress": "3 Retreat Pl St. Simons Island, GA 31522",
+    "street": "3 Retreat Pl",
+    "city": "St. Simons Island",
+    "state": "GA",
+    "zip": "31522",
+    "region": "7",
+    "branchNumber": "9602.0",
+    "services": [],
+    "position": {
+      "xPercent": 50.61,
+      "yPercent": 66.15
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Warner Robins - Bug House Pest Control",
+    "fullAddress": "618C Houston Lake Blvd Centerville, GA 31028",
+    "street": "618C Houston Lake Blvd",
+    "city": "Centerville",
+    "state": "GA",
+    "zip": "31028",
+    "region": "7",
+    "branchNumber": "9604.0",
+    "services": [],
+    "position": {
+      "xPercent": 59.94,
+      "yPercent": 67.92
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Bug House Pest Control",
+    "serviceCenter": "Watkinsville - Bug House Pest Control",
+    "fullAddress": "1021 Industrial Blvd Suite B. Watkinsville, GA 30677",
+    "street": "1021 Industrial Blvd Suite B",
+    "city": "Watkinsville",
+    "state": "GA",
+    "zip": "30677",
+    "region": "7",
+    "branchNumber": "9612.0",
+    "services": [],
+    "position": {
+      "xPercent": 52.11,
+      "yPercent": 62.71
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Commercial Pest - East Cobb",
+    "fullAddress": "670 Powers Ferry Road Marietta, GA 30067",
+    "street": "670 Powers Ferry Road",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067",
+    "region": "10",
+    "branchNumber": "6860.0",
+    "services": [],
+    "position": {
+      "xPercent": 53.75,
+      "yPercent": 58.28
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Commercial Pest - Lithia Springs",
+    "fullAddress": "685 Thornton Way \n\nSuite C and D",
+    "street": "685 Thornton Way \n\nSuite C and D",
+    "city": "Lithia Springs",
+    "state": "GA",
+    "zip": "30122",
+    "region": "10",
+    "branchNumber": null,
+    "services": [],
+    "position": {
+      "xPercent": 54.1,
+      "yPercent": 61.8
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Commercial Pest - Tucker",
+    "fullAddress": "1724 Montreal Circle Tucker, GA 30084",
+    "street": "1724 Montreal Circle",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084",
+    "region": "10",
+    "branchNumber": "6861.0",
+    "services": [],
+    "position": {
+      "xPercent": 58.55,
+      "yPercent": 71.69
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "McCall Pest and Wildlife",
+    "serviceCenter": "Gainesville, FL",
+    "fullAddress": "415 NW 250th St #1Newberry, FL 32669",
+    "street": "415 NW 250th St #1",
+    "city": "Newberry",
+    "state": "FL",
+    "zip": "32669",
+    "region": "11",
+    "branchNumber": "6875.0",
+    "services": [],
+    "position": {
+      "xPercent": 55.09,
+      "yPercent": 87.22
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "McCall Pest and Wildlife",
+    "serviceCenter": "Jacksonville",
+    "fullAddress": "2861 College St Jacksonville, FL 32205",
+    "street": "2861 College St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32205",
+    "region": "11",
+    "branchNumber": "6872.0",
+    "services": [],
+    "position": {
+      "xPercent": 58.71,
+      "yPercent": 88.44
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "McCall Pest and Wildlife",
+    "serviceCenter": "Ocala",
+    "fullAddress": "35 SE 1st Ave. STE 200 Office C.Ocala, FL34475",
+    "street": "35 SE 1st Ave. STE 200 Office C.",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34475",
+    "region": "11",
+    "branchNumber": "6874.0",
+    "services": [],
+    "position": {
+      "xPercent": 53.67,
+      "yPercent": 79.41
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "McCall Pest and Wildlife",
+    "serviceCenter": "Orlando",
+    "fullAddress": "5892 S Semoran Blvd Building B. Orlando, FL 32822",
+    "street": "5892 S Semoran Blvd Building B",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32822",
+    "region": "11",
+    "branchNumber": "6882.0",
+    "services": [],
+    "position": {
+      "xPercent": 65.93,
+      "yPercent": 73.27
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "McCall Pest and Wildlife",
+    "serviceCenter": "Tallahassee",
+    "fullAddress": "5149 Woodlane Cir. Tallahassee, FL32303",
+    "street": "5149 Woodlane Cir",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303",
+    "region": "11",
+    "branchNumber": "6873.0",
+    "services": [],
+    "position": {
+      "xPercent": 66.93,
+      "yPercent": 73.35
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "McCall Pest and Wildlife",
+    "serviceCenter": "Tampa",
+    "fullAddress": "2610 Tampa E. Blvd Tampa, FL 33619",
+    "street": "2610 Tampa E. Blvd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33619",
+    "region": "11",
+    "branchNumber": "6876.0",
+    "services": [],
+    "position": {
+      "xPercent": 64.09,
+      "yPercent": 78.63
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Bonita Springs",
+    "fullAddress": "9200 Cockleshell Ct. Bonita Springs, FL 34135",
+    "street": "9200 Cockleshell Ct",
+    "city": "Bonita Springs",
+    "state": "FL",
+    "zip": "34135",
+    "region": "12",
+    "branchNumber": "6841.0",
+    "services": [],
+    "position": {
+      "xPercent": 64.9,
+      "yPercent": 82.54
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Broward",
+    "fullAddress": "5580 N Pine Island Rd. Lauderhill, FL 33351",
+    "street": "5580 N Pine Island Rd",
+    "city": "Lauderhill",
+    "state": "FL",
+    "zip": "33351",
+    "region": "12",
+    "branchNumber": "6843.0",
+    "services": [],
+    "position": {
+      "xPercent": 60.69,
+      "yPercent": 83.12
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Doral",
+    "fullAddress": "1529 NW 89th Court Doral, FL 33172",
+    "street": "1529 NW 89th Court",
+    "city": "Doral",
+    "state": "FL",
+    "zip": "33172",
+    "region": "12",
+    "branchNumber": "6844.0",
+    "services": [],
+    "position": {
+      "xPercent": 64.88,
+      "yPercent": 90.91
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Fort Myers",
+    "fullAddress": "13901 N Cleveland Ave. Fort Myers FL, 33903",
+    "street": "13901 N Cleveland Ave",
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33903",
+    "region": "12",
+    "branchNumber": "6842.0",
+    "services": [],
+    "position": {
+      "xPercent": 62.31,
+      "yPercent": 91.36
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Miami Gardens",
+    "fullAddress": "17401 NW 2nd Ave #1 Miami, FL 33169",
+    "street": "17401 NW 2nd Ave #1",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33169",
+    "region": "12",
+    "branchNumber": "6845.0",
+    "services": [],
+    "position": {
+      "xPercent": 54.28,
+      "yPercent": 89.43
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Naples",
+    "fullAddress": "10550 Collier Blvd Naples, FL 34116",
+    "street": "10550 Collier Blvd",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34116",
+    "region": "12",
+    "branchNumber": "6846.0",
+    "services": [],
+    "position": {
+      "xPercent": 59.98,
+      "yPercent": 85.5
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Northwest Exterminating",
+    "serviceCenter": "Pompano Beach",
+    "fullAddress": "2420 N Andrews Ave Ext Pompano Beach, FL 33064",
+    "street": "2420 N Andrews Ave",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "zip": "33069",
+    "region": "12",
+    "branchNumber": "6847.0",
+    "services": [],
+    "position": {
+      "xPercent": 61.79,
+      "yPercent": 76.83
+    },
+    "isSupportCenter": false
+  },
+  {
+    "brandName": "Volunteer Rid-A-Pest",
+    "serviceCenter": "Volunteer Rid-A-Pest",
+    "fullAddress": "633 Mimosa Dr NW, Cleveland, TN 37312",
+    "street": "633 Mimosa Dr NW",
+    "city": "Cleveland",
+    "state": "TN",
+    "zip": "37312",
+    "region": null,
+    "branchNumber": null,
+    "services": [],
+    "position": {
+      "xPercent": 48.08,
+      "yPercent": 46.82
+    },
+    "isSupportCenter": false
+  }
+]
